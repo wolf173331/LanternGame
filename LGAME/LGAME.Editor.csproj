@@ -287,11 +287,11 @@
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/Users/ulver/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
-    <Reference Include="TextMeshPro-1.0.55.2017.2.0b12">
-      <HintPath>Assets/2DGamekit/Utilities/TextMesh Pro/Plugins/TextMeshPro-1.0.55.2017.2.0b12.dll</HintPath>
+    <Reference Include="TextMeshPro-2017.3-1.0.56-Runtime">
+      <HintPath>Assets/2DGamekit/Utilities/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-1.0.56-Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="TextMeshPro-1.0.55.2017.2.0b12-Editor">
-      <HintPath>Assets/2DGamekit/Utilities/TextMesh Pro/Plugins/Editor/TextMeshPro-1.0.55.2017.2.0b12-Editor.dll</HintPath>
+    <Reference Include="TextMeshPro-2017.3-1.0.56-Editor">
+      <HintPath>Assets/2DGamekit/Utilities/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-1.0.56-Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>E:/Unity2007/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -388,6 +388,7 @@
     <Compile Include="Assets\2DGamekit\Utilities\Editor\StandardParticlesShaderGUI.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\2DGamekit\Art\LGAME\LgameFont.txt" />
     <None Include="Assets\2DGamekit\Utilities\Cinemachine\ReleaseNotes.txt" />
     <None Include="Assets\2DGamekit\Utilities\Fonts\Rajdhani\OFL.txt" />
     <None Include="Assets\2DGamekit\Utilities\PostProcessing\Shaders\ACES.hlsl" />
@@ -460,10 +461,11 @@
     <None Include="Assets\2DGamekit\Utilities\Shaders\UnityStandardParticles.cginc" />
     <None Include="Assets\2DGamekit\Utilities\Shaders\Water.shader" />
     <None Include="Assets\2DGamekit\Utilities\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
-    <None Include="Assets\2DGamekit\Utilities\TextMesh Pro\Fonts\Anton OFL.txt" />
-    <None Include="Assets\2DGamekit\Utilities\TextMesh Pro\Fonts\Bangers - OFL.txt" />
-    <None Include="Assets\2DGamekit\Utilities\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
-    <None Include="Assets\2DGamekit\Utilities\TextMesh Pro\Fonts\Oswald-Bold - OFL.txt" />
+    <None Include="Assets\2DGamekit\Utilities\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
+    <None Include="Assets\2DGamekit\Utilities\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
+    <None Include="Assets\2DGamekit\Utilities\TextMesh Pro\Examples &amp; Extras\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\2DGamekit\Utilities\TextMesh Pro\Examples &amp; Extras\Fonts\NotoSans - License.txt" />
+    <None Include="Assets\2DGamekit\Utilities\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald Bold - OFL.txt" />
     <None Include="Assets\2DGamekit\Utilities\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\2DGamekit\Utilities\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\2DGamekit\Utilities\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
