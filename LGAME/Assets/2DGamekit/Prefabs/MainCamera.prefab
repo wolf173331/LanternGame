@@ -181,9 +181,9 @@ Camera:
     height: 1
   near clip plane: 0.1
   far clip plane: 5000
-  field of view: 46
-  orthographic: 0
-  orthographic size: 10
+  field of view: 31.6
+  orthographic: 1
+  orthographic size: 3.02
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
@@ -247,8 +247,8 @@ MonoBehaviour:
   m_LookAt: {fileID: 0}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 27.9
-    OrthographicSize: 10
+    FieldOfView: 31.6
+    OrthographicSize: 3.02
     NearClipPlane: 0.1
     FarClipPlane: 5000
     Dutch: 0
@@ -332,8 +332,8 @@ MonoBehaviour:
       colorBlindnessType: 0
       colorBlindnessStrength: 1
   m_Resources: {fileID: 11400000, guid: d82512f9c8e5d4a4d938b575d47f88d4, type: 2}
-  m_ShowToolkit: 0
-  m_ShowCustomSorter: 0
+  m_ShowToolkit: 1
+  m_ShowCustomSorter: 1
   breakBeforeColorGrading: 0
   m_BeforeTransparentBundles: []
   m_BeforeStackBundles: []
