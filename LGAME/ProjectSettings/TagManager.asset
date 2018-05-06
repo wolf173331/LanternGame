@@ -26,7 +26,7 @@ TagManager:
   - EnemyWeapon
   - BossWeakPoint
   - Bullet
-  - 
+  - BG
   - 
   - 
   - 
@@ -50,4 +50,7 @@ TagManager:
     locked: 0
   - name: Front
     uniqueID: 3405993979
+    locked: 0
+  - name: BG
+    uniqueID: 548852095
     locked: 0
